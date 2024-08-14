@@ -1,0 +1,3 @@
+"0",""
+"0","newdata1 <- mutate(covid_data, Positive = Positive + 100)"
+"0","newdata1"

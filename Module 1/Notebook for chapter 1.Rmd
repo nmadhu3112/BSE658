@@ -16,6 +16,7 @@ Assigning variable
 x<- 2*8
 x
 # change in code
+#second change
 ```
 Numeric Vector and operation on it
 ```{r}

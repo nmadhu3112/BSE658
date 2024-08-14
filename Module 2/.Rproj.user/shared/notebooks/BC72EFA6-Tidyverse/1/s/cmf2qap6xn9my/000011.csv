@@ -1,0 +1,3 @@
+"0",""
+"0","newdata <- mutate(covid_data, prop = Positive/TotalSamples)"
+"0","newdata"
