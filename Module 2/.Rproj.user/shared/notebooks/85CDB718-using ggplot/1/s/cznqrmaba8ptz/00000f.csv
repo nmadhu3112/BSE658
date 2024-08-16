@@ -1,0 +1,3 @@
+"0","ggplot(data = manystates_data, aes(x=Negative))  + geom_histogram(bins = 10, color = 'white', fill = 'steelblue')) +facet_grid()"
+"2","Error: unexpected ')' in ""ggplot(data = manystates_data, aes(x=Negative))  + geom_histogram(bins = 10, color = 'white', fill = 'steelblue'))""
+"

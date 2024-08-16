@@ -1,0 +1,5 @@
+"0","plot1 <- ggplot(state_data) + geom_point(mapping = aes(x=Date, y=TotalSamples))"
+"0","plot2 <- ggplot(state_data) + geom_point(mapping = aes(x=Date, y=Positive))"
+"0","library(gridExtra)"
+"2","Error in library(gridExtra) : there is no package called ‘gridExtra’
+"

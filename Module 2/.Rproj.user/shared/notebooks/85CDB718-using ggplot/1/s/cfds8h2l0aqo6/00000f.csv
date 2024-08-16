@@ -1,0 +1,2 @@
+"0","covid_data$Date <- as.Date(covid_data$Date)"
+"0",""
